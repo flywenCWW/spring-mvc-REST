@@ -1,10 +1,9 @@
 package com.spring.mvc.mini.model;
 
 /**
- * Created by lusun on 8/17/16.  测试测试122
- * Created by lusun on 8/17/16.  测试测试333
+ * Created by lusun on 8/17/16.  测试测试1
  */
-public class ClassTaken {
+public class ClassTaken2 {
     private Integer studentId;
     private Integer classId;
     private String grade;
