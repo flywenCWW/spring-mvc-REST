@@ -2,6 +2,7 @@ package com.spring.mvc.mini.model;
 
 /**
  * Created by lusun on 8/17/16.  55
+ * Created by lusun on 8/17/16.  66拉
  */
 public class ClassTaken {
     private Integer studentId;
