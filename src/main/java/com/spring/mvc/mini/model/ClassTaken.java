@@ -1,7 +1,7 @@
 package com.spring.mvc.mini.model;
 
 /**
- * Created by lusun on 8/17/16.  测试测试1
+ * Created by lusun on 8/17/16.  测试测试122
  */
 public class ClassTaken {
     private Integer studentId;
