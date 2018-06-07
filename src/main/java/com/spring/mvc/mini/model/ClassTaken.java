@@ -3,7 +3,7 @@ package com.spring.mvc.mini.model;
 /**
  * Created by lusun on 8/17/16.  测试测试122
  * Created by lusun on 8/17/16.  测试测试333
- * Created by lusun on 8/17/16.  测试测试555
+ * Created by lusun on 8/17/16.  测试测试444
  */
 public class ClassTaken {
     private Integer studentId;
